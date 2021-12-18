@@ -1,0 +1,31 @@
+body {
+    margin: 0
+}
+
+.container {
+    box-shadow: 10px 10px 78px 14px rgba(0,0,0,0.37);
+    -webkit-box-shadow: 10px 10px 78px 14px rgba(0,0,0,0.37);
+    -moz-box-shadow: 10px 10px 78px 14px rgba(0,0,0,0.37);
+    border-radius: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.teemo {
+    margin-top: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    border-radius: 25px 25px 0px 0px;
+    color: white;
+}
+
+.description {
+    margin-bottom: 100px;
+    padding: 80px 60px;
+    border-radius: 0px 0px 25px 25px;
+}
